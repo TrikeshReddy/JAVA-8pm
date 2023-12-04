@@ -1,0 +1,33 @@
+Bard
+LaMDA
+
+Megatron-Turing NLG
+GPT-NeoX-20B
+Jurassic-1 Jumbo
+Megatron-Turing NLG 530B
+Wu Dao 2.0
+Switch Transformer
+Bloom
+Megatron-Turing NLG 137B
+GShard
+Swin Transformer
+Jurassic-1 Jumbo (6.7B)
+BART
+Megatron-LM
+
+
+===========================
+BERT (Google)
+
+ALBERT (Google)
+ELECTRA (Google)
+XLNet (Google)
+
+CTRL (Salesforce)
+
+MarianMT (University of Edinburgh)
+CamemBERT (Inria)
+Megatron-LM (NVIDIA)
+DeBERTa (Microsoft)
+FlauBERT (CNRS)
+GPT-2 (OpenAI)

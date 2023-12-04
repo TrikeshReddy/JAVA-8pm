@@ -1,0 +1,8 @@
+T5==>me
+GPT-2
+Reformer (Google)
+UniLM (Microsoft)
+RoBERTa (Facebook AI)
+XLM-RoBERTa (Facebook AI)
+PaLM
+DistilBERT (Hugging Face)==>sai

@@ -1,0 +1,40 @@
+Constuctors:
+Interface:==>interface
+
+abstract methods:
+a method with only signature and no implementation is considered as abstract method 
+
+concrete methods:
+Concrete methods are methods that 
+are declared in an abstract class and are implemented in the subclass. They define a set of operations that can be performed on any object of the subclass.
+
+Encapsulation:
+Encapsulation is a way 
+to restrict the direct access to 
+some components of an object.
+
+
+Inheritance:
+
+super class/parent class=(inherits)=>sub class:
+
+car(enginestart,gearsystem,fuel)==>audi,bmw
+
+inheritance is a concept where child class can acces the methods and 
+variables of parent class
+extends is the keyword for inheriting one class from another class
+
+
+method overriding:
+method over ride means it already
+ had an implementation 
+and we are overriding we use @Override
+
+we cannot over ride a static method
+
+Polymorphism:
+it means multiple forms for a single method
+
+abstraction:
+Abstraction in Java is a process of hiding the implementation details from the user and showing only the 
+functionality to the user

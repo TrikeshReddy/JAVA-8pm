@@ -1,0 +1,9 @@
+arguments are nothing but which we pass to a method
+return type is what method returns to the caller after execution is completed
+
+method are of 4 types :
+
+method with arguments and with return type
+method with out arguments and with return type
+method with arguments and without return type
+method with out arguments and without return type

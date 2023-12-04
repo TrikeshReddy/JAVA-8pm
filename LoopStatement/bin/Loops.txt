@@ -1,0 +1,40 @@
+loops:
+
+if we want to execute a peice of code multiple 
+time will be going with loops
+
+while,do-while,for
+
+while:
+
+while(condition){
+//block of code you want to execute
+}
+
+for(intialize;check the condition;increment/decrement){
+{
+//block of code you want to execute
+}
+intialize will happen only once during the start of loop execution
+condition check will happen for every iteration at the start
+increment//decrement will happen for every iteration during the end of the loop body
+
+
+continue:refers to skip the particular iteration
+break:refers to the end of the loop and exiting out of the loop
+
+
+DeBugging:
+we will be using it in a scenario where in you want to see the line by line execution changes in a variable
+
+print vs println
+print:
+it prints the data and the cursor will remain in the same line
+println:
+it prints the data and at the end of printing it moves to a new line
+
+
+Q1)write a java program to print numbers from 0-99(for loop)
+Q2)write a java program to print numbers from 0-99 which has 5 in the end
+output:5,15,25,35,45,65,55,75,85,95
+Q3)write a java program to print numbers from 0-65 which are even

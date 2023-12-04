@@ -1,0 +1,34 @@
+uninary operator:
+(-,!,~,++,--)
+these operators are used only for single variables
+
+controll statement:
+simple if
+================= 
+checks for condition and works only if it is true
+if else
+=================
+checks for condition and if block executes if it is true and else block executes if it is false
+if else if ladder
+=================
+we will be using it to check multiple conditions and execute accordingly
+nested if else
+=================
+if we have a if else inside another if else it is called as nested if else
+Switch:
+syntax:
+switch (key) {
+case value:
+	
+	break;
+
+default:
+	break;
+}
+based on key it will check for values in case and executes that case if it matches with the key
+
+default
+if none the case values matches with the key then default will be executed
+
+break:
+it differentiates one case from another,if we dont use break the next case also executes even if it doesn't match with the key

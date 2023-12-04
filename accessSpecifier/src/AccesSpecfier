@@ -1,0 +1,27 @@
+Java has the following access modifiers:
+private
+protected
+public
+default
+
+static
+
+creating a object for a class 
+ 
+ ClassName objectName = new ClassName();
+
+public access specfier means it is accesibly in the entire project(subclasses,samepackage,different package):
+
+public class with static method 
+use classname.Methodname to access it
+using objName.MethodName to access it
+
+public class with static variable
+use classname.variable to access it
+use objName.variable to access it
+
+public class with non static method 
+using objName.MethodName to access it
+
+public class with non static variable
+use objName.variable to access it
