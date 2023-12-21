@@ -1,0 +1,13 @@
+java 8 features:
+1)lambda expression
+2)functional interfaces
+3)stream api
+4)base 64 encode and decode
+
+
+functional interface:it is an interface that contain 
+exactly one abstract method.can have 
+multiple default and static methods
+
+lambda expression:it is a java 8 feature where in it provide you a clear way to represent 
+one method interface
